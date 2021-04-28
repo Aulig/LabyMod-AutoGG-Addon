@@ -39,7 +39,7 @@ processResources {
 
 reobf {
     jar {
-        useNotchSrg()
+        setMappingType(net.minecraftforge.gradle.user.ReobfMappingType.NOTCH)
     }
 }
 
