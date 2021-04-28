@@ -1,7 +1,6 @@
 buildscript {
     repositories {
         jcenter()
-        maven { url = "http://files.minecraftforge.net/maven" }
         maven { url = "https://jitpack.io" }
     }
     dependencies {
@@ -36,6 +35,12 @@ dependencies {
 }
 
 processResources {
+}
+
+reobf {
+    jar {
+        useNotchSrg()
+    }
 }
 
 jar.finalizedBy('reobfJar')
