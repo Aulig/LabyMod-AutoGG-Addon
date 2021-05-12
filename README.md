@@ -1,3 +1,5 @@
+Edited to include dumber gg messages kekw
+
 # [LabyMod](https://labymod.net)-AutoGG-Addon
 This **LabyMod** addon automatically sends a selected phrase after a game ended, or a special occasion occurred on certain servers. 
 
