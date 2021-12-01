@@ -11,7 +11,7 @@ import net.labymod.main.LabyMod;
  */
 public enum AdditionalMessage {
     GOOD_DAY("Have a good day!"),
-    HEART("Malty GG my friends! Jetzt wird es malzig."),
+    HEART("Erniedrigt."),
     LM_CREDIT("I knew you were the imposter when you acted so sussy! ඞඞඞ"),
     SK1ER_CREDIT("GG - Mitte safe, alles safe!");
 
